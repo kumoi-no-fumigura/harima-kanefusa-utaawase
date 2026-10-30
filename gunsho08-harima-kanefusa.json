@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/harima-kanefusa-utaawase",
  "yomi": "はりまのかみかねふさあそんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十二番）",
+  "era": "天喜2年（1054）秋",
+  "author": "播磨守藤原兼房",
+  "desc": "播磨守藤原兼房が催した十二番の歌合。萩・女郎花・鹿音・初雁・白露・紅葉・恋・祝などの題で、武蔵守・源頼宗・藤原惟実らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
